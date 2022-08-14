@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "521866867101",
+    "project_id": "blog-elvis",
+    "storage_bucket": "blog-elvis.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521866867101:android:de864182664fb98048bf74",
+        "android_client_info": {
+          "package_name": "com.elvis.blog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521866867101-9k72vliuuo1847icjip8slghuc0m9riq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr8NOtACfAYHQfWgj7JwphaehPOXYxk84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "521866867101-9k72vliuuo1847icjip8slghuc0m9riq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
